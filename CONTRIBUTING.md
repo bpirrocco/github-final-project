@@ -1,3 +1,5 @@
+# Contributions
+
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 Simple Interest Calculator is an open source project and we are always happy to receive contributions from our community. You can contribute in different ways:
@@ -9,7 +11,7 @@ Simple Interest Calculator is an open source project and we are always happy to 
 
 Please submit a pull request for review of any changes.
 
-Pull Request Process
+## Pull Request Process
 
     Fork the repository.
     Commit your changes to your fork.
